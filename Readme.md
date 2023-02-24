@@ -15,7 +15,7 @@ Celkem bodů 6.50/10.00 b.</p>
 
 ### 2.projekt = 9.75/10
 
-Uloha	Hodnocení
+Uloha	  /   Hodnocení
 1.	    2.75 b.
 2.	    3.5 b.
 3.	    3.5 b.
