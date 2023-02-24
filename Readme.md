@@ -1,8 +1,8 @@
 # IAL
-Projects for VUT FIT - IAL
+## Projects for VUT FIT - IAL
 --------------------------
-1.projekt = 6.5/10 
-----
+### 1.projekt = 6.5/10 
+
 (získáno/celkem) 
 c201/test 15/16 = 93.75 % 0.25/1.00 b. 
 c201/test-advanced 28/29 = 96.55 % 1.50/2.00 b. 
@@ -12,8 +12,8 @@ c206/test 25/25 = 100.00 % 1.00/1.00 b.
 c206/test-advanced 46/50 = 92.00 % 0.75/3.00 b. 
 Celkem bodů 6.50/10.00 b.
 --------------------
-2.projekt = 9.75/10
-----
+### 2.projekt = 9.75/10
+
 Uloha	Hodnocení
 1.	    2.75 b.
 2.	    3.5 b.
